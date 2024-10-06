@@ -1,0 +1,199 @@
+
+
+h1 {
+    color: rgb(146, 76, 210);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(57, 57, 223);
+}
+
+h3 {
+    color: rgb(33, 148, 110);
+}
+
+p {
+   color: white;
+  }
+
+  .red {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  }
+
+  .green {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+  }
+
+  .blue {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+  }
+
+  .lilac  {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(159, 72, 159);
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 40px;
+  }
+
+  .grey {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(113, 113, 141);
+    position: relative;
+    left: 120px;
+    bottom: 80px;
+  }
+
+  .yellow {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(206, 206, 64);
+    position: relative;
+    left: 240px;
+    bottom:350px
+  }
+
+  .azure {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(43, 160, 160);
+  }
+
+  .mauve {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(168, 100, 168);
+  }
+
+  .aqua {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(56, 136, 91);
+  }
+
+  .azure2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(43, 160, 160);
+    position: relative;
+    bottom: 500px;
+    left:500px;
+  }
+
+  .mauve2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(168, 100, 168);
+    position: relative;
+    bottom: 600px;
+    left:400px;
+  }
+
+  .aqua2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(56, 136, 91);
+    position: relative;
+    bottom: 450px;
+    left:250px;
+  }
+
+  .azure3 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(43, 160, 160);
+    bottom: 550px;
+    left:300px;
+  }
+
+  .mauve3 {
+    display: inline-block;
+    width: 400px;
+    height: 75px;
+    background-color: rgb(168, 100, 168);
+    position: relative;
+    bottom: 550px;
+    left:300px;
+    border-radius: 75%;
+    text-align: center;
+    padding-top: 2%;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:italic;
+  }
+
+  .aqua3 {
+    display: inline-block;
+    width: 400px;
+    height: 75px;
+    background-color: rgb(56, 136, 91);
+    position: relative;
+    bottom: 650px;
+    left:150px;
+    border-radius: 75%;
+    text-align: center;
+    padding-top: 2%;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:italic;
+  }
+
+  .yellow2 {
+    display: inline-block;
+    width: 400px;
+    height: 75px;
+    background-color: rgb(206, 206, 64);
+    position: relative;
+    right:150px;
+    bottom:500px;
+    border-radius: 75%;
+    text-align: center;
+    padding-top: 2%;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:italic;
+  }
+
+  .azure4 {
+    display: inline-block;
+    width: 600px;
+    height: 75px;
+    background-color: rgb(43, 160, 160);
+    position: relative;
+    left: 550px;
+    bottom:475px;
+    border-radius: 75%;
+    text-align: center;
+    padding-top: 2%;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style:italic;
+  }
+
